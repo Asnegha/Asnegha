@@ -33,12 +33,16 @@ I am a dynamic **Electrical Engineering** student interested in **Data Science**
 <hr>
 
 
+
 <!--[![Asnegha's github activity graph](https://activity-graph.herokuapp.com/graph?username=Asnegha&theme=tokyo-night)](https://github.com/Asnegha)-->
 
 <!--[Asnegha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Asnegha&theme=tokyo-night)](https://github.com/Asnegha)-->
 
 <!--https://github-readme-activity-graph.cyclic.app/graph?username=Asnegha&theme=tokyo-night-->
 
+<br/>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asnegha&layout=compact)](https://github.com/Asnegha/github-readme-stats)
 <br/>
 
 ## Connect with me <img src="https://user-images.githubusercontent.com/92506047/192497801-4790be4c-9f96-4b4b-8eae-cdfbcee4efa1.gif" alt="Handshake" width="50">
