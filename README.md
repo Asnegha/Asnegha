@@ -3,7 +3,7 @@
 <h4 align="center">Data Engineer and Developer</h4>
 <hr>
 
-I am a dynamic **Electrical Engineering** student interested in **Data Science** field. I am skilled in **Machine Learning, Deep Learning, and NLP**. Also an **Open source enthusiast**. I am adept in programming languages like **C++ and Python**. Acquired hands-on experience while learning by doing various projects in ML and DL. Also have done two internships during my college days, where I worked on testing ML models for safe deployment in the real world. Currently looking for opportunity to work on real world project. 
+I am a dynamic **Electrical Engineering** student interested in **Data Science** field. I am skilled in **Machine Learning, Deep Learning, and NLP**. Also an **Open source enthusiast**. I am adept in programming languages like **C++ and Python**. Acquired hands-on experience while learning by doing various projects in ML and DL. Also have done two internships during my college days, where I worked on testing ML models for safe deployment in the real world. Currently looking for opportunities to work on real world project. 
 
   ## 🚀 Languages and Tools:
 
