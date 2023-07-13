@@ -3,12 +3,14 @@
 <h4 align="center">Data Engineer and Developer</h4>
 <hr>
 
-I am a dynamic **Electrical Engineering** student interested in **Data Science** field. I am skilled in **Machine Learning, Deep Learning, and NLP**. Also an **Open source enthusiast**. I am adept in programming languages like **C++ and Python**. Acquired hands-on experience while learning by doing various projects in ML and DL. Also have done two internships during my college days, where I worked on testing ML models for safe deployment in the real world. Currently looking for opportunities to work on real world project. 
+I am a dynamic **Electrical Engineering** student interested in **Data Science** field. I am skilled in **Machine Learning, Deep Learning, and NLP**. Also an **Open source enthusiast**. I am adept in programming languages like **C++ and Python**. Acquired hands-on experience while learning by doing various projects in ML and DL. Also have done two internships during my college days, where I worked on testing ML models for safe deployment in the real world. Currently looking for opportunities to work on real world projects. 
 
   ## 🚀 Languages and Tools:
 
 <p align="center"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+  <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png"/> </a>
+  <a href="https://hive.apache.org/" target="_blank"> <img src="https://hive.apache.org/images/hiveAcid.svg"/> </a>
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
   <a href="https://en.wikipedia.org/wiki/C++" target="_blank"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/> </a>
