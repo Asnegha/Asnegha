@@ -10,7 +10,7 @@ I am a dynamic **Electrical Engineering** student interested in **Data Science**
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
   <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png"/> </a>
-  <a href="https://hive.apache.org/" target="_blank"> <img src="https://hive.apache.org/images/hiveAcid.svg"/> </a>
+  <a href="https://hive.apache.org/" target="_blank"> <img src="https://img.icons8.com/office/40/wasp.png"/> </a>
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
   <a href="https://en.wikipedia.org/wiki/C++" target="_blank"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/> </a>
