@@ -3,16 +3,17 @@
 <h4 align="center">Data Engineer and Developer</h4>
 <hr>
 
-I am a dynamic **Electrical Engineering** student interested in data science field. I am skilled in Machine Learning, Deep Learning, and NLP. Also an **Open source enthusiast**. I am adept in programming languages like C++ and Python. Acquired hands-on experience while learning by doing various projects in ML and DL. Also have done two internships during my college days, where I worked on testing ML models for safe deployment in the real world. Currently looking for opportunity to work on real world project. 
+I am a dynamic **Electrical Engineering** student interested in **Data Science** field. I am skilled in **Machine Learning, Deep Learning, and NLP**. Also an **Open source enthusiast**. I am adept in programming languages like **C++ and Python**. Acquired hands-on experience while learning by doing various projects in ML and DL. Also have done two internships during my college days, where I worked on testing ML models for safe deployment in the real world. Currently looking for opportunity to work on real world project. 
 
   ## 🚀 Languages and Tools:
 
 <p align="center"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+  <a href="https://en.wikipedia.org/wiki/C++" target="_blank"> <img src="https://icons8.com/icon/40669/c%2B%2B"/> </a>
+  <a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://icons8.com/icon/40670/c-programming"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
@@ -34,7 +35,7 @@ I am a dynamic **Electrical Engineering** student interested in data science fie
 
 <!--[![Asnegha's github activity graph](https://activity-graph.herokuapp.com/graph?username=Asnegha&theme=tokyo-night)](https://github.com/Asnegha)-->
 
-[![Asnegha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Asnegha&theme=tokyo-night)](https://github.com/Asnegha)
+<!--[Asnegha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Asnegha&theme=tokyo-night)](https://github.com/Asnegha)-->
 
 <!--https://github-readme-activity-graph.cyclic.app/graph?username=Asnegha&theme=tokyo-night-->
 
