@@ -19,7 +19,7 @@ I am a dynamic **Electrical Engineering** student interested in **Data Science**
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> </p>
   <p align="center">
-  <a href="https://github.com/Asnegha"><img Get stats for your profile at git.io/streak-stats" alt="Snegha s language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asnegha&layout=compact" width="400"/>
+  <a href="https://github.com/Asnegha"><img Get stats for your profile at git.io/streak-stats" alt="Snegha s language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asnegha&layout=compact&theme=tokyonight" width="400"/>
     </a>
 </p>
 
@@ -30,9 +30,9 @@ I am a dynamic **Electrical Engineering** student interested in **Data Science**
 <br/>
 
 <p align="center" float="left">
-    <a href="https://github.com/Asnegha"><img Get streak stats for your profile at git.io/streak-stats" alt="Snegha s streak" src="https://streak-stats.demolab.com?user=Asnegha&theme=tokyonight" width="400"/>
+    <a href="https://github.com/Asnegha"><img Get streak stats for your profile at git.io/streak-stats" alt="Snegha s streak" src="https://streak-stats.demolab.com?user=Asnegha&theme=tokyonight" width="400" height="200"/>
     </a>
-    <a href="https://github.com/Asnegha"> <img src="https://github-readme-stats.vercel.app/api?username=Asnegha&show_icons=true&theme=tokyonight&count_private=true" alt="Snegha s GitHub Stats" width="400"/> </a>
+    <a href="https://github.com/Asnegha"> <img src="https://github-readme-stats.vercel.app/api?username=Asnegha&show_icons=true&theme=tokyonight&count_private=true" alt="Snegha s GitHub Stats" width="400" height="200"/> </a>
 </p>
 
 <hr>
