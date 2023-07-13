@@ -17,7 +17,10 @@ I am a dynamic **Electrical Engineering** student interested in **Data Science**
   <a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/c-programming.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> </p>
+  <p align="center">
+  <a href="https://github.com/Asnegha"><img Get stats for your profile at git.io/streak-stats" alt="Snegha s language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asnegha&layout=compact" width="400"/>
+    </a>
 </p>
 
 <br/>
@@ -42,10 +45,9 @@ I am a dynamic **Electrical Engineering** student interested in **Data Science**
 <!--https://github-readme-activity-graph.cyclic.app/graph?username=Asnegha&theme=tokyo-night-->
 
 <br/>
-<br>
-<a href="https://github.com/Asnegha"><img Get stats for your profile at git.io/streak-stats" alt="Snegha s language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asnegha&layout=compact" width="400"/>
-    </a>
-<br/>
+
+
+
 
 ## Connect with me <img src="https://user-images.githubusercontent.com/92506047/192497801-4790be4c-9f96-4b4b-8eae-cdfbcee4efa1.gif" alt="Handshake" width="50">
 
