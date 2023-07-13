@@ -11,8 +11,8 @@ I am a dynamic **Electrical Engineering** student interested in **Data Science**
   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C++" target="_blank"> <img src="https://icons8.com/icon/40669/c%2B%2B"/> </a>
-  <a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://icons8.com/icon/40670/c-programming"/> </a>
+  <a href="https://en.wikipedia.org/wiki/C++" target="_blank"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/> </a>
+  <a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/c-programming.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
