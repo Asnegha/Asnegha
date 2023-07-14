@@ -30,9 +30,12 @@ I am a dynamic **Electrical Engineering** student interested in **Data Science**
 <br/>
 
 <p align="center" float="left">
-    <a href="https://github.com/Asnegha"><img Get streak stats for your profile at git.io/streak-stats" alt="Snegha s streak" src="https://streak-stats.demolab.com?user=Asnegha&theme=tokyonight" width="400" height="200"/>
+    <a href="https://github.com/Asnegha">
+      <img alt="Snegha s streak" src="https://streak-stats.demolab.com?user=Asnegha&theme=tokyonight" width="400" height="200"/>
     </a>
-    <a href="https://github.com/Asnegha"> <img src="https://github-readme-stats.vercel.app/api?username=Asnegha&show_icons=true&theme=tokyonight&count_private=true" alt="Snegha s GitHub Stats" width="400" height="200"/> </a>
+    <a href="https://github.com/Asnegha">
+      <img src="https://github-readme-stats.vercel.app/api?username=Asnegha&show_icons=true&theme=tokyonight&count_private=true" alt="Snegha s GitHub Stats" width="380" height="200"/>
+    </a>
 </p>
 
 <hr>
