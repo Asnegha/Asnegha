@@ -1,6 +1,4 @@
-<!-- <h1 align='center'> Hola! 👋</h1> -->
-<h2 align="center">A Snegha</h2>
-<h4 align="center">Data Engineer and Developer</h4>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Snegha+👋)](https://git.io/typing-svg)
 <hr>
 
 I am a dynamic **Electrical Engineering** student interested in **Data Science** field. I am skilled in **Machine Learning, Deep Learning, and NLP**. Also an **Open source enthusiast**. I am adept in programming languages like **C++ and Python**. Acquired hands-on experience while learning by doing various projects in ML and DL. Also have done two internships during my college days, where I worked on testing ML models for safe deployment in the real world. Currently looking for opportunities to work on real world projects. 
@@ -28,6 +26,8 @@ I am a dynamic **Electrical Engineering** student interested in **Data Science**
 ## 📊 My Github Stats:
 
 <br/>
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
 <p align="center" float="left">
     <a href="https://github.com/Asnegha"><img Get streak stats for your profile at git.io/streak-stats" alt="Snegha s streak" src="https://streak-stats.demolab.com?user=Asnegha&theme=tokyonight" width="400" height="200"/>
