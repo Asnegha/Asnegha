@@ -1,10 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Snegha+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=I'm+a+NLP+Researcher+and+Data+Science+Enthusiast+👩🏻‍💻+! )](https://git.io/typing-svg)
+
 <img src="https://github.com/natividadesusana/natividadesusana/assets/95102911/8fc06a5b-ddf4-4b7f-a858-43be8dd803c3" width="100%" height="10px">
 <img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="300" height="200"/>
 
 🎓 &nbsp;Currently pursing MS by Research in Centre for Machine Intelligence and Data Science, IIT Bombay.\
 ⭐ &nbsp;You can find my projects in the repositories section.\
-🛠️ &nbsp;Skilled in Machine Learning, Deep Learning, and NLP. Adept in C++ and Python. \
+📌 &nbsp;Interest: Machine Learning, Deep Learning, and NLP.
+🛠️ &nbsp;Adept in C++ and Python. \
 🧩 &nbsp;Passionate about solving challenges.
 
 
