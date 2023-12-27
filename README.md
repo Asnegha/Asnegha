@@ -37,8 +37,7 @@
 
 <br/>
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
-![Snake animation](https://github.com/Asnegha/Asnegha/blob/output/github-contribution-grid-snake.svg)
+<!--[github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)-->
 
 <p align="center" float="left">
     <a href="https://github.com/Asnegha"><img Get streak stats for your profile at git.io/streak-stats" alt="Snegha s streak" src="https://streak-stats.demolab.com?user=Asnegha&theme=tokyonight" width="400" height="200"/>
