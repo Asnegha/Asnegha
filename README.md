@@ -1,27 +1,34 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Snegha+👋)](https://git.io/typing-svg)
-<hr>
+<img src="https://github.com/natividadesusana/natividadesusana/assets/95102911/8fc06a5b-ddf4-4b7f-a858-43be8dd803c3" width="100%" height="10px">
+<img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="300" height="200"/>
 
-I am a dynamic **Electrical Engineering** student interested in **Data Science** field. I am skilled in **Machine Learning, Deep Learning, and NLP**. Also an **Open source enthusiast**. I am adept in programming languages like **C++ and Python**. Acquired hands-on experience while learning by doing various projects in ML and DL. Also have done two internships during my college days, where I worked on testing ML models for safe deployment in the real world. Currently looking for opportunities to work on real world projects. 
+🎓 &nbsp;Currently pursing MS by Research in Centre for Machine Intelligence and Data Science, IIT Bombay.\
+⭐ &nbsp;You can find my projects in the repositories section.\
+🛠️ &nbsp;Skilled in Machine Learning, Deep Learning, and NLP. Adept in C++ and Python. \
+🧩 &nbsp;Passionate about solving challenges.
+
+
+<img src="https://github.com/natividadesusana/natividadesusana/assets/95102911/8fc06a5b-ddf4-4b7f-a858-43be8dd803c3" width="100%" height="10px">
 
   ## 🚀 Languages and Tools:
 
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-  <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png"/> </a>
-  <a href="https://hive.apache.org/" target="_blank"> <img src="https://img.icons8.com/office/40/wasp.png"/> </a>
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C++" target="_blank"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/> </a>
-  <a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/c-programming.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> </p>
-  <p align="center">
-  <a href="https://github.com/Asnegha"><img Get stats for your profile at git.io/streak-stats" alt="Snegha s language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asnegha&layout=compact&theme=tokyonight" width="400"/>
-    </a>
-</p>
+➖➖➖➖
+  </br>
+  ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)&nbsp;
+  ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=C%2B%2B&logoColor=white)&nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)&nbsp;
+  </br>
+➖➖➖➖
+➖➖➖➖
+  </br>
+  ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5)&nbsp;
+  ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=blue)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)&nbsp;
+  ![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask)&nbsp;
+  </br>
+➖➖➖➖
 
-<br/>
 
 ## 📊 My Github Stats:
 
