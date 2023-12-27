@@ -6,7 +6,7 @@
 
 🎓 &nbsp;Currently pursing MS by Research in Centre for Machine Intelligence and Data Science, IIT Bombay.\
 ⭐ &nbsp;You can find my projects in the repositories section.\
-📌 &nbsp;Interest: Machine Learning, Deep Learning, and NLP. \
+📌 &nbsp;*Interest:* Machine Learning, Deep Learning, and NLP. \
 🛠️ &nbsp;Adept in C++ and Python. \
 🧩 &nbsp;Passionate about solving challenges.
 
