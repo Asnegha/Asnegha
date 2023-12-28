@@ -5,10 +5,11 @@
 <img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="300" height="200"/>
 
 🎓 &nbsp;Currently pursing MS by Research in Centre for Machine Intelligence and Data Science, IIT Bombay.\
-⭐ &nbsp;You can find my projects in the repositories section.\
+👩🏻‍🎓 &nbsp;Btech Electrical Engineering graduate from IIT Tirupati. \
 📌 &nbsp;*Interest:* Machine Learning, Deep Learning, and NLP. \
 🛠️ &nbsp;Adept in C++ and Python. \
-🧩 &nbsp;Passionate about solving challenges.
+⚡ &nbsp;Databricks Certified Associate Developer for Apache Spark 3.0. \
+⭐ &nbsp;You can find my projects in the repositories section.
 
 
 <img src="https://github.com/natividadesusana/natividadesusana/assets/95102911/8fc06a5b-ddf4-4b7f-a858-43be8dd803c3" width="100%" height="10px">
@@ -30,7 +31,16 @@
   ![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask)&nbsp;
   </br>
 ➖➖➖➖
-
+  </br>
+  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-000?style=for-the-badge&logo=apachespark&logoColor=red)&nbsp;
+  ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-000?style=for-the-badge&logo=apachehive&logoColor=yellow)&nbsp; 
+  </br>
+➖➖➖➖
+ </br>
+ ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=PyTorch&logoColor=blue)&nbsp;
+ ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=TensorFlow&logoColor=red)&nbsp;
+ </br>
+➖➖➖➖
 
 ## 📊 My Github Stats:
 
